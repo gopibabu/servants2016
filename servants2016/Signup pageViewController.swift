@@ -10,6 +10,7 @@ import UIKit
 
 class Signup_pageViewController: UIViewController {
 
+    @IBOutlet var textf1: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
 
